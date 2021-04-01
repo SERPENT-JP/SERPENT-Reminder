@@ -1,0 +1,9 @@
+{
+    "context": "..",
+
+    "dockerFile": "../Dockerfile",
+
+    "runArgs": ["--env-file", ".env"],
+
+    "extensions": ["ms-python.python"]
+}
